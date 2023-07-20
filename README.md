@@ -8,4 +8,6 @@ This is currently what the application looks like from it's current state.
 # Features:
 All the same as the regular ChatGPT. 
 # More Screenshots:
+<img src="ChatGPT Desktop Application Sign In Image .png">
 <img src="ChatGPT Desktop Application Login Image .png">
+<img src="ChatGPT Desktop Application Main Image .png">

@@ -11,3 +11,6 @@ All the same as the regular ChatGPT.
 <img src="ChatGPT Desktop Application Sign In Image .png">
 <img src="ChatGPT Desktop Application Login Image .png">
 <img src="ChatGPT Desktop Application Main Page Image.png">
+
+# Please Note:
+To who'm it may concern I am not selling this as licensed software. <br> For legal purposes this was created to be intended to be a code demonstration.  

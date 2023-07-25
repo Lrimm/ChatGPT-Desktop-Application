@@ -1,4 +1,4 @@
-# ChatGPT Desktop Application
+# The ChatGPT Desktop Application.
 <img src="ChatGPT Logo.ico">
 
 This is currently what the application looks like from it's current state.
@@ -12,6 +12,6 @@ All the same as the regular ChatGPT. This app is intended for people who just wa
 <img src="ChatGPT Desktop Application Login Image .png">
 <img src="ChatGPT Desktop Application Main Page Image.png">
 
-# Please Note:
+# Please Note (Disclaimer):
 To who'm it may concern I am not selling this as licensed software. 
 For legal purposes this was created to be intended to be a code demonstration. <a href="https://openai.com/">OpenAI</a> own's ChatGPT, this was simply made as a hobby with no reason to distribute. You can reach out to OpenAI by going to their site directly in the link above. For more of my personal information, you can contact me <a href="https://lukerimmington.com">Luke Rimmington</a> here.
